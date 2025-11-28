@@ -5,16 +5,16 @@
 
 ***Overview***
 -
-You can find all my training files here.
+You can find all my training files in this repo.
 
 `````bash
 
-- SQL (4 Hours) : COMPLETED ✅ 
-- Python (12 Hours) : COMPLETED ✅ 
-- Pandas (1 Hours) :
+- SQL (4 Hours) : COMPLETED 100% ✅ 
+- Python (12 Hours) : COMPLETED 100% ✅
 - NumPy (1 Hours) :
+- Pandas (1 Hours) :
 - MatPlotlib (1 Hours) :
-- C Programming :
+- C Programming (7 Hours) :
 - C++ Programming :
 
 `````
