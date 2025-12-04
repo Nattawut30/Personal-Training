@@ -13,7 +13,7 @@ Enjoy Learning!
 - SQL (4 Hours)             : COMPLETED ✅ 
 - Python (12 Hours)         : COMPLETED ✅
 - NumPy (1 Hours)           : COMPLETED ✅
-- Pandas (1 Hours)          :
+- Pandas (1 Hours)          : COMPLETED ✅
 - MatPlotlib (1 Hours)      :
 - C Programming (6 Hours)   :
 - C++ Programming           :
